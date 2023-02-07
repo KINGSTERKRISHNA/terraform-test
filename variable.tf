@@ -1,0 +1,2 @@
+variable "vpn_ip" {
+}
