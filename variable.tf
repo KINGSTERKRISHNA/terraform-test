@@ -1,2 +1,0 @@
-variable "vpn_ip" {
-}
